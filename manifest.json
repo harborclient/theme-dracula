@@ -1,10 +1,11 @@
 {
   "id": "com.harborclient.plugins.dracula",
   "name": "Dracula Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "HarborClient",
   "description": "README.md",
   "summary": "A Dracula theme for HarborClient.",
+  "categories": ["themes"],
   "screenshots": [
     "https://raw.githubusercontent.com/harborclient/plugin-dracula/main/screenshot.png"
   ],

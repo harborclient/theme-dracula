@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pluginId": "com.harborclient.plugins.dracula",
-  "pluginVersion": "1.0.3",
+  "pluginVersion": "1.0.4",
   "algorithm": "Ed25519",
   "files": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "path": "manifest.json",
-      "sha256": "bafb260d066aba1f4a48ba328d60da8a29beaf32a78bafb6600ff21ec640e55b"
+      "sha256": "5f80d74d449f422fe7588f22ee81f755084a3d6f57f508752f24252f1efb3688"
     },
     {
       "path": "package.json",
@@ -61,5 +61,5 @@
       "sha256": "663c22f2cb634722bc1c1191c4808b53c89d930979d4936cb6d0a539f4476ac9"
     }
   ],
-  "signature": "Y4q8ms7OASff2XBDCrYvE8ViFCKrKhXR2JE1fz7d2xgmjYZuEPNhe7hpiZ4UxNjv8iT2OBoqe5xt1pmWiE5pDQ=="
+  "signature": "LFIbCkM5NyDxdxuwxh1hlLvnxYM0Q6tDMg01CKQ/NeDEN6km5vytvnXHXb114cEIC3hI5SBn9vGnadA9PHvrBw=="
 }
