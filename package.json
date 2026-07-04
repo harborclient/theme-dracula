@@ -1,5 +1,5 @@
 {
-  "name": "@harborclient/plugin-dracula",
+  "name": "@harborclient/theme-dracula",
   "type": "module",
   "scripts": {
     "release": "bash scripts/publish.sh",
